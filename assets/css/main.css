@@ -1,0 +1,31 @@
+.header {
+    width: auto;
+    height: 75px;
+    background: #67B26F;
+    background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);
+    background: linear-gradient(to right, #4ca2cd, #67B26F);
+    color: white;
+    font-weight: 100;
+    padding: 15px 0;
+    box-shadow: 0 0 5px #212121;
+}
+
+.card {
+    box-sizing: border-box;
+    border-left: 5px solid #90cc97;
+    overflow: hidden;
+}
+
+.btn-primary {
+    background-color: #4ca2cd;
+    border-color: #4ca2cd;
+}
+
+.btn-primary:hover {
+    background-color: #419ac6;
+    border-color: #419ac6;
+}
+
+form {
+    margin-top: 20px;
+}
